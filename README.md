@@ -1,6 +1,6 @@
 # MechaCar Statistical Analysis
 ## Summary
-AutosRUs is realzing that their decision making process around new vehicle prototypes could be improved with additional data analytics around the manufacturing process.  The executives recognize the that to make the launch new prototype to be successful, they will need to use data analytics in each decision throughout the manufacturing process.  
+AutosRUs has decided to improve the decision making process around new vehicle prototypes with additional data analytics around the manufacturing process.  The executives recognize the that to make the launch new prototype to be successful, they will need to use data analytics in each decision throughout the manufacturing process.  
 
 Jeremy has been working for AutosRUs for 10 years, and has been asked to do some statistical analysis around production struggles that the manufacturing team is having with the new prototype, MechaCar.  His team is responsible for looking at historical data, analytical verification and validation of current automotive specifications, and study design of future product testing.  
 
@@ -49,4 +49,21 @@ Lot #3 should be investigated as to what is causing the issue so that adjustment
 The below boxplot demonstrates how disporportinate lot #3 is to the full population.
 
 ![](Resources/boxplot_D2.png)
+
+### T-Tests on Suspension Coils
+Several T-Tests were performed to determin if the PSI is statistically different across the different populations.
+
+1. Full Population
+     The p-value for the entire population is 0.06 with a mean of 1500.  We are able to reject the alternative hypothesis in favor of the null hypothesis.  The conclusion is there is no statistical difference in means.
+
+![](Resources/population_t_test_D3.PNG)
+
+2. Each Lot Independently
+    Reviewing the p-values of each lot, we can see that p-value for lot 3 is 0.04 compared to lot #1 and #2 with a p-value of 1 and .61, respectively. This demonstrates significant evidence that suspension coiled in lot #3 is different from the population mean.
+
+    Lots #1 and #2 have the same outcome as the full population.  with a sample mean of 1500.  We can reject the alternative hypothisis in favor of the null hypothisis because they are statistically similar.
+
+    For lot #3, the conculsion is that we would reject the the null hypothsis.  The p-value is significantly different from the other two data sets and the full population and the mean is statistically different when compared to the other data sets.
+
+![](Resources/t_test_D3.PNG)
 

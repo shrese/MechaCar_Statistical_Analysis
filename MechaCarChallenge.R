@@ -64,3 +64,5 @@ t.test(lot2$PSI,mu=1500)
 
 lot3<-subset(coil,Manufacturing_Lot=="Lot3")
 t.test(lot3$PSI,mu=1500)
+
+### 3. Save your MechaCarChallenge.RScript file to your GitHub repository.
