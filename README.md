@@ -48,5 +48,5 @@ Lot #3 should be investigated as to what is causing the issue so that adjustment
 
 The below boxplot demonstrates how disporportinate lot #3 is to the full population.
 
-![](Resources/boxplot_D2.PNG)
+![](Resources/boxplot_D2.png)
 
