@@ -1,6 +1,6 @@
 # MechaCar Statistical Analysis
 ## Summary
-AutosRUs is realzing that their decision making process around new vehicle prototypes could be moved into the 21st century.  The executives recognize the that to make the launch new prototype to be successful, they will need to use data analytics in each decision throughout the manufacturing process.  
+AutosRUs is realzing that their decision making process around new vehicle prototypes could be improved with additional data analytics around the manufacturing process.  The executives recognize the that to make the launch new prototype to be successful, they will need to use data analytics in each decision throughout the manufacturing process.  
 
 Jeremy has been working for AutosRUs for 10 years, and has been asked to do some statistical analysis around production struggles that the manufacturing team is having with the new prototype, MechaCar.  His team is responsible for looking at historical data, analytical verification and validation of current automotive specifications, and study design of future product testing.  
 
