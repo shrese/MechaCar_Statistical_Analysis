@@ -26,6 +26,6 @@ The multiple line regression produced the following statistical results:
 
     This linear model has an Rsquared value of 0.7149.  This indicates that approximately 71% of the mpg predictions can be determined by this model with the following linear regression formula:
 
-    mpg = 6.28×(vehicle_length) + 1.245×10-3×(vehicle_weight) + 6.877×10-2×(spoiler_angle) + 3.546×(ground_clearance) -3.411×AWD - 1.04×102
+        mpg = 6.28×(vehicle_length) + 1.245×10-3×(vehicle_weight) + 6.877×10-2×(spoiler_angle) + 3.546×(ground_clearance) -3.411×AWD - 1.04×102
 
 For our purposes, the multiple regression model does predict mpg effectively.
