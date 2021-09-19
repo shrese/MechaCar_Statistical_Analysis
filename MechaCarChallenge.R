@@ -41,3 +41,7 @@ lot_summary <- coil  %>% group_by(Manufacturing_Lot) %>% summarize(Mean_PSI=mean
 print(lot_summary)
 
 ### 5. Save your MechaCarChallenge.RScript file to your GitHub repository.
+
+### EXTRA ###
+plt <- ggplot(coil,aes(x=Manufacturing_Lot,y=PSI))
+plt + geom_boxplot()

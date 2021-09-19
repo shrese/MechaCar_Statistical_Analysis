@@ -10,7 +10,7 @@ Before starting the analysis, a p-value of 0.05 as a tolerance level was chosen 
 
 The multiple line regression produced the following statistical results:
 
-![](Resources/summary.PNG)
+![](Resources/summary_D1.PNG)
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
@@ -30,3 +30,23 @@ The multiple line regression produced the following statistical results:
         + 3.546×(ground_clearance) -3.411×AWD - 1.04×102
 
 For our purposes, the multiple regression model does predict mpg effectively.
+
+### Summary Statistics on Suspension Coils
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. 
+
+Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+![](Resources/total_summary_D2.PNG)
+
+Looking at the summary statistics of all three lots combined (chart above), the PSI variance is 62.29 which is well within the specification limit of 100 PSI.  
+
+By looking at the data grouped by individual lot number (below), it can be readily seen that the variance in lot #3 is over 170 while lot #1 and #2 are within the specification limit of 100 PSI at 0.98 and 7.47, respectively.  The variance of lot #3 is out of porportion from the other two lots.  This is sewing the overall PSI variance. 
+
+Lot #3 should be investigated as to what is causing the issue so that adjustments can be made in the manufacturing and engineering procces.
+
+![](Resources/lot_summary_D2.PNG)
+
+The below boxplot demonstrates how disporportinate lot #3 is to the full population.
+
+![](Resources/boxplot_D2.PNG)
+
