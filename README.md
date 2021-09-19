@@ -14,13 +14,13 @@ The multiple line regression produced the following statistical results:
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-        The p-values for vehicle length and ground clearance were below the p = 0.05 threshold to reject the null hypothesis.  They are likely to provide non-random variances to the model.  We can delcare both are statistically significant to the mpg.
+    The p-values for vehicle length and ground clearance were below the p = 0.05 threshold to reject the null hypothesis.  They are likely to provide non-random variances to the model.  We can delcare both are statistically significant to the mpg.
 
-        On the other hand, the p-values for the vehicle weight, spoiler angle, and all wheel drive (AWD) trend towards a random amount of variance.
+    On the other hand, the p-values for the vehicle weight, spoiler angle, and all wheel drive (AWD) trend towards a random amount of variance.
 
 2. Is the slope of the linear model considered to be zero? Why or why not?
 
-        The p-value of 5.35 × 10-11 for the linear model is smaller than a significance level of p = 0.05 We have evidence to reject the null hypothesis, which leans toward a slope of our linear model is zero.  
+    The p-value of 5.35 × 10-11 for the linear model is smaller than a significance level of p = 0.05 We have evidence to reject the null hypothesis, which leans toward a slope of our linear model is zero.  
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
