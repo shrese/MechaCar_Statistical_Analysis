@@ -57,13 +57,13 @@ Several T-Tests were performed to determine if the PSI is statistically differen
 
 **Each Lot Independently**
 
-    Reviewing the p-values of each lot, we can see that p-value for lot 3 is 0.04 compared to lot #1 and #2 with a p-value of 1.00 and .61, respectively. This demonstrates significant evidence that suspension coiled in lot #3 is different from the population mean.
+Reviewing the p-values of each lot, we can see that p-value for lot 3 is 0.04 compared to lot #1 and #2 with a p-value of 1.00 and .61, respectively. This demonstrates significant evidence that suspension coiled in lot #3 is different from the population mean.
 
-    For lot #3, the conclusion is to reject the null hypothesis.  The p-value is significantly different from the other two data sets and the full population.  Also, the mean is statistically different when compared to the other data sets.  
-    
-    The manufacturing and engineering team should review the finding from lot #3 to determine future actions to correct any issues that may be found.  Locate and correct/remove any suspension coils that do not meet the minimum requirements.
+For lot #3, the conclusion is to reject the null hypothesis.  The p-value is significantly different from the other two data sets and the full population.  Also, the mean is statistically different when compared to the other data sets.  
 
-    Lots #1 and #2 have the same outcome as the full population, with a sample mean of 1500.  We can reject the alternative hypothesis in favor of the null hypothesis because they are statistically similar.
+The manufacturing and engineering team should review the finding from lot #3 to determine future actions to correct any issues that may be found.  Locate and correct/remove any suspension coils that do not meet the minimum requirements.
+
+Lots #1 and #2 have the same outcome as the full population, with a sample mean of 1500.  We can reject the alternative hypothesis in favor of the null hypothesis because they are statistically similar.
 
 ![](Resources/t_test_D3.PNG)
 
