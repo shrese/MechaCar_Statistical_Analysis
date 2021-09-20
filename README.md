@@ -1,8 +1,8 @@
 # MechaCar Statistical Analysis
 ## Summary
-AutosRUs has decided to improve the decision-making process around new vehicle prototypes with additional data analytics around the manufacturing process.  The executives recognize the that to make the launch new prototype successful, they will need to use data analytics in each decision throughout the manufacturing process.  
+AutosRUs has decided to improve the decision-making process around new vehicle prototypes with additional data analytics around the manufacturing process.  The executives recognize the that for the launch new prototype successful, they will need to use data analytics in each decision throughout the manufacturing process.  
 
-Jeremy has been working for AutosRUs for 10 years, and has been asked to do some statistical analysis around production.  He is specifically reviewing struggles that the manufacturing team is having with the new prototype, MechaCar.  The team is responsible for looking at historical data, analytical verification and validation of current automotive specifications, and study design of future product testing.  
+Jeremy has been working for AutosRUs for 10 years, and has been asked to do some statistical analysis around production.  He is specifically reviewing struggles that the manufacturing team is having with the new prototype, MechaCar.  The team is responsible for looking at historical data, analytical verification and validation of current automotive specifications along with the study design of future product testing.  
 
 ## Results
 ### Linear Regression to Predict Miles Per Gallon (MPG)
