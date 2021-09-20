@@ -93,7 +93,7 @@ Ha = There is a statistical difference between the MechaCar and its competitors,
 *footnote:*
 *I would also choose the standard p = 0.05 as my tolerance level to accept or reject the null hypothesis.*
 
-# Summary
+## Summary
 Overall the executives were pleased with the information provided as it uncovered areas of imporvement for the vehicle.  They were also pleased with the recommendations to compare the MechaCar to its competitors.  
 
 
