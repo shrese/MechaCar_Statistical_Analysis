@@ -1,5 +1,5 @@
 # MechaCar Statistical Analysis
-## Summary
+## Overview
 AutosRUs has decided to improve the decision-making process around new vehicle prototypes with additional data analytics around the manufacturing process.  The executives recognize the that to launch new prototype successfully, they will need to use data analytics in each decision throughout the manufacturing and engineering process.  
 
 Jeremy has been working for AutosRUs for 10 years, and has been asked to do some statistical analysis around production.  He is specifically reviewing struggles that the manufacturing team is having with the new prototype, MechaCar.  The team is responsible for looking at historical data, analytical verification and validation of current automotive specifications along with the study design of future product testing.  
@@ -92,6 +92,9 @@ Ha = There is a statistical difference between the MechaCar and its competitors,
 
 *footnote:*
 *I would also choose the standard p = 0.05 as my tolerance level to accept or reject the null hypothesis.*
+
+# Summary
+Overall the executives were pleased with the information provided as it uncovered areas of imporvement for the vehicle.  They were also pleased with the recommendations to compare the MechaCar to its competitors.  
 
 
 
