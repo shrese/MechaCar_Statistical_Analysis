@@ -34,7 +34,7 @@ The multiple line regression produced the following statistical results:
 This multiple regression model does predict mpg effectively.
 
 ### Summary Statistics on Suspension Coils
-___
+-----
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Looking at the summary statistics of the full population, the PSI variance is 62.29 which is wel within the specification limit of 100 PSI.
 
 ![](Resources/total_summary_D2.PNG)
@@ -50,7 +50,8 @@ The below boxplot demonstrates how disproportionate lot #3 is to the full popula
 ![](Resources/boxplot_D2.png)
 
 ### T-Tests on Suspension Coils
-====
+-----
+
 Several T-Tests were performed to determine if the PSI is statistically different across the different populations.
 
 **Full Population**
