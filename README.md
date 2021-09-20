@@ -51,7 +51,7 @@ Several T-Tests were performed to determine if the PSI is statistically differen
 
 **Full Population**
 
-     The p-value for the entire population is 0.06 with a mean of 1500.  We are able to reject the alternative hypothesis in favor of the null hypothesis.  The conclusion is there is no statistical difference in means.
+The p-value for the entire population is 0.06 with a mean of 1500.  We are able to reject the alternative hypothesis in favor of the null hypothesis.  The conclusion is there is no statistical difference in means.
 
 ![](Resources/population_t_test_D3.PNG)
 
