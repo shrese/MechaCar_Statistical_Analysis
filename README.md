@@ -6,6 +6,8 @@ Jeremy has been working for AutosRUs for 10 years, and has been asked to do some
 
 ## Results
 ### Linear Regression to Predict Miles Per Gallon (MPG)
+-----
+
 Before starting the analysis, a p-value of 0.05 as a tolerance level was chosen to test null and alternative hypotheses. 
 
 The multiple line regression produced the following statistical results:
@@ -32,6 +34,7 @@ The multiple line regression produced the following statistical results:
 This multiple regression model does predict mpg effectively.
 
 ### Summary Statistics on Suspension Coils
+___
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Looking at the summary statistics of the full population, the PSI variance is 62.29 which is wel within the specification limit of 100 PSI.
 
 ![](Resources/total_summary_D2.PNG)
@@ -47,6 +50,7 @@ The below boxplot demonstrates how disproportionate lot #3 is to the full popula
 ![](Resources/boxplot_D2.png)
 
 ### T-Tests on Suspension Coils
+====
 Several T-Tests were performed to determine if the PSI is statistically different across the different populations.
 
 **Full Population**
@@ -68,6 +72,7 @@ Lots #1 and #2 have the same outcome as the full population, with a sample mean 
 ![](Resources/t_test_D3.PNG)
 
 ### Study Design: MechaCar vs Competition
+*****
 There are several ways to measure how the MechaCar will perform against their competitors.  These include but not limited to:
 * Similar performance metrics such as horsepower, engine size, fuel economy, how well it does in a quarter-mile, and more
 * Consumer buying habits
