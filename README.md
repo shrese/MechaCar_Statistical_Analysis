@@ -13,17 +13,14 @@ The multiple line regression produced the following statistical results:
 ![](Resources/summary_D1.PNG)
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-
     The p-values for vehicle length and ground clearance were below the 0.05 threshold to reject the null hypothesis.  They are likely to provide non-random variances to the model.  We can assume both are statistically significant to the mpg.
 
     On the other hand, the p-values for the vehicle weight, spoiler angle, and all-wheel-drive (AWD) trend towards a random amount of variance.
 
 2. Is the slope of the linear model considered to be zero? 
-
     The p-value of 5.35 × 10-11 for the linear model is smaller than a significance level of 0.05. There is evidence to reject the null hypothesis, which leans toward a slope of our linear model is zero.  
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively?
-
     This linear model has an R-squared value of 0.71.  This indicates that approximately 71% of the mpg predictions can be determined by this model with the following linear regression formula:
 
         mpg = 6.28×(vehicle_length) + 1.245×10-3×(vehicle_weight) + 6.877×10-2×(spoiler_angle) 
@@ -77,13 +74,11 @@ There are several ways to measure how the MechaCar will perform against their co
 
 
 **Metrics/Data**:
-
 This study assumes that the MechaCar is a sports car with limited production and a high selling price.
 
 To compare the MechaCar against it competitors we will look at other sports cars within the same price range.  There are many items to consider for comparison, but we will only be analyzing fuel economy and quarter-mile performance by collecting readily available data on several competitors.
 
 **Hypothesis**:
-
 Ho = There is no statistical difference between the MechaCar and its competitor in the given metric.
 
 Ha = There is a statistical difference between the MechaCar and its competitor, and one car has an advantage over the other.
